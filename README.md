@@ -4,7 +4,7 @@
 ---
 
 🌱 **Currently Learning**  
-- Python Full-Stack Development (JavaScrip, React.js, Django, Core Java, GIT)  
+- Python Full-Stack Development (JavaScript, React.js, Django, Core Java, GIT)  
 - Building REST APIs and web applications
 - Practicing DSA in Java
 - Version control, CI/CD & DevOps basics  
