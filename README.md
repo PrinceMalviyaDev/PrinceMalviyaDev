@@ -3,15 +3,12 @@
 </h1>
 
 <h3 align="center">
-  🚀 B.Tech CSE Student | 🐍 Python Full-Stack Developer | ⚙️ Future MLOps Engineer
+  🚀 B.Tech CSE Student | 🐍 MERN Full-Stack Developer | ⚙️ Future DevOps Engineer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers"/>
+  <a href="https://github.com/PrinceMalviyaDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/PrinceMalviyaDev?label=Followers&style=social" alt="followers"/>
   </a>
 </p>
 
@@ -20,11 +17,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science & Engineering Student  
-- 🔭 Currently working on **Python + Django backend systems**
+- 🔭 Currently working on **MERN Projects**
 - 🌐 Building dynamic dashboards using **React.js**
-- 📚 Practicing **DSA in Java**
-- 🐳 Exploring **Docker, CI/CD & DevOps workflows**
-- 🎯 Long-term Goal: Become a **high-level MLOps Engineer**
+- 📚 Practicing **DSA in C++**
+- 🐳 Exploring **Docker, Kubernetes, Jenkins CI/CD & DevOps workflows**
+- 🎯 Long-term Goal: Become a **high-level DevOps Engineer**
 
 ---
 
@@ -32,9 +29,9 @@
 
 - ⚡ Building scalable REST APIs
 - 🔐 Authentication & JWT-based systems
-- 🔄 Full-stack integration (React + Django)
+- 🔄 Full-stack integration (React + Express)
 - 📦 Dockerizing backend applications
-- 📊 Designing production-ready architecture mindset
+- 📊 Designing production-ready architecture
 
 ---
 
@@ -42,22 +39,22 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=django,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django" />
 </p>
 
 ### 🧰 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode" />
 </p>
 
 ### 🗄 Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ---
@@ -65,15 +62,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceMalviyaDev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceMalviyaDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMalviyaDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -95,19 +92,18 @@
 
 ## 📚 Currently Learning Deeply
 
-- 🧠 Advanced Data Structures & Algorithms
+- 🧠 Advanced Data Structures & Algorithms using C++
 - ☁️ Cloud Deployment (AWS/GCP Basics)
 - ⚙️ Kubernetes & Infrastructure as Code
-- 📊 Model Deployment & Monitoring (MLOps Vision)
+- 📊 Model Deployment & Monitoring (DevOps)
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://linkedin.com/in/prince-malviya-02685a335/?skipRedirect=true" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:pm306616@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
