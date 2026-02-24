@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm Prince Malviya
+  Hi, I'm Prince Malviya
 </h1>
 
 <h3 align="center">
-  🚀 B.Tech CSE Student | 🐍 MERN Full-Stack Developer | ⚙️ Future DevOps Engineer
+   B.Tech CSE Student | Full-Stack Developer (MERN) | ♾️ Future DevOps Engineer
 </h3>
 
 <p align="center">
@@ -17,11 +17,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science & Engineering Student  
-- 🔭 Currently working on **MERN Projects**
+- 🔭 Developing scalable web applications with **MERN**
 - 🌐 Building dynamic dashboards using **React.js**
-- 📚 Practicing **DSA in C++**
+- 📚 Solving **DSA problems in C++**
 - 🐳 Exploring **Docker, Kubernetes, Jenkins CI/CD & DevOps workflows**
-- 🎯 Long-term Goal: Become a **high-level DevOps Engineer**
+- 🎯 Long-term Goal: Become a **Skilled DevOps Engineer**
 
 ---
 
@@ -69,16 +69,12 @@
 
 ## 🏗 Featured Projects
 
-### 🔹 Task Management & Code Review System
+### 🔹 Academic Resource Mangement System
 - Role-based authentication
-- Code submission & review workflow
-- Versioned uploads
-- Dashboard tracking
-
-### 🔹 Smart Attendance System
-- Face recognition
-- Live location tracking
-- Backend API + Database integration
+- Review and approval based resource uploads
+- Personalized features such as Bookmarks
+- 4-level Authorization
+- Role based detailed Dashboards
 
 ---
 
