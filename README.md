@@ -39,12 +39,12 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,django,tailwind" />
 </p>
 
 ### 🧰 Tools & DevOps
@@ -59,11 +59,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrinceMalviyaDev&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceMalviyaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PrinceMalviyaDev&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMalviyaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 
 ---
 
