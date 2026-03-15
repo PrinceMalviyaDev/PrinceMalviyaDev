@@ -101,8 +101,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrinceMalviyaDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PrinceMalviyaDev&icon=1&color=0)](https://visitcount.itsvg.in)
+
+---
+
 <h3 align="center">
-  💬 "Consistency + Systems > Motivation"
+  💬 "Consistency + Hard Work > Motivation"
 </h3>
 
 <h4 align="center">
