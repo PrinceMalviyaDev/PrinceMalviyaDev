@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   B.Tech CSE Student | Full-Stack Developer (MERN) | ♾️ Future DevOps Engineer
+   Ex Intern at IIT Ropar | B.Tech CSE Student | Full-Stack Developer (MERN) | ♾️ Future DevOps Engineer
 </h3>
 
 <p align="center">
